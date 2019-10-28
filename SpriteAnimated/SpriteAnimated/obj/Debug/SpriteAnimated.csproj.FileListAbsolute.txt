@@ -1,0 +1,9 @@
+C:\Users\Artur\Desktop\SpriteAnimated\SpriteAnimated\bin\Debug\SpriteAnimated.exe.config
+C:\Users\Artur\Desktop\SpriteAnimated\SpriteAnimated\bin\Debug\SpriteAnimated.exe
+C:\Users\Artur\Desktop\SpriteAnimated\SpriteAnimated\bin\Debug\SpriteAnimated.pdb
+C:\Users\Artur\Desktop\SpriteAnimated\SpriteAnimated\obj\Debug\SpriteAnimated.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\SpriteAnimated\SpriteAnimated\obj\Debug\SpriteAnimated.Form1.resources
+C:\Users\Artur\Desktop\SpriteAnimated\SpriteAnimated\obj\Debug\SpriteAnimated.Properties.Resources.resources
+C:\Users\Artur\Desktop\SpriteAnimated\SpriteAnimated\obj\Debug\SpriteAnimated.csproj.GenerateResource.cache
+C:\Users\Artur\Desktop\SpriteAnimated\SpriteAnimated\obj\Debug\SpriteAnimated.exe
+C:\Users\Artur\Desktop\SpriteAnimated\SpriteAnimated\obj\Debug\SpriteAnimated.pdb
